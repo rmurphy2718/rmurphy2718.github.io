@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ane Berasategi"
   avatar           : "profile.png"
-  bio              : "Computational linguistics master student, learning data science and algorithms and trying to keep up with my reading list. Intermediate hipster."
+  bio              : "Computational linguistics student, learning data science and algorithms and trying to keep up with my reading list. Intermediate hipster."
   location         : "Munich, Germany"
   employer         :
   googlescholar    : 
@@ -269,11 +269,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-plugins:
-  - jekyll-remote-theme
-remote_theme          : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 
 # Archives
 #  Type
