@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Ane Berasategi"
   avatar           : "profile.png"
-  bio              : "Computational linguistics student, learning data science and algorithms and trying to keep up with my reading list. Intermediate hipster."
-  location         : "Munich, Germany"
+  bio              : "Computational linguistics student, learning data science and algorithms and trying to keep up with my reading list."
+  location         : 
   employer         :
   googlescholar    : 
   email            : "ane.berasategi@gmail.com"
-  uri              : "https://www.kaggle.com/anebzt"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
