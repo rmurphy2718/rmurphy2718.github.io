@@ -126,7 +126,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets
+  - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
@@ -271,7 +271,7 @@ whitelist:
 plugins:
   - jekyll-remote-theme
 remote_theme          : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Archives
