@@ -11,29 +11,39 @@ redirect_from:
 
 Education
 ------
-* B.Sc. in Telecommunication Systems Engineering, Tecnun - Universidad de Navarra, 2013-2017
+* 2018-2020 (expected) \| M.Sc. in Computational linguistics \! LMU, Germany
+* 2013-2017 \| B.Sc. in Telecommunication Systems Engineering \| Tecnun - Universidad de Navarra, Spain
   - Bachelor thesis: *traceability processing in regulatory reporting implemented in a Big Data platform*.
-* M.Sc. in Computational linguistics, LMU, 2018-2020 (expected)
 
 Work experience
 ------
-* 2018 Summer: *Data scientist*, Skootik, San Sebastian, Spain
+* 2018 Summer \| **Data scientist** \| Skootik \| San Sebastian, Spain
   - Image processing, deep learning for multiclass classification, CNN research, implementation, optimization.
   - Python, numpy, TensorFlow, Keras, cv2, scikit-learn
-* 2017/07 - 2018/07: *Research assistant*, Fraunhofer IIS, Erlangen, Germany
+* 2017/07 - 2018/07 \| **Research assistant** \| Fraunhofer IIS \| Erlangen, Germany
   - Development, optimization and testing of a psychoacoustic model for the MPEG-H 3D Audio encoder.
   - Research on auditory neuroscience and documentation of the human auditory system.
-* 2016 Summer: *Software development internship*, STT Systems, San Sebastian, Spain
+* 2016 Summer \| *Software development internship* \| STT Systems \| San Sebastian, Spain
   - Protocol importer and exporters, XML parsing and UIs using C++, Qt and Bitbucket.
   
 Skills
 ------
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  - Matlab, C/C++, Java, bash, Scala Spark
+  - Basic web development (HTML, CSS, JavaScript, PHP)
+* Data science
+  - SQL, Python, numpy, pandas, scikit-learn, openCV
+  - TensorFlow, Keras, basic Pytorch
+* Version control
+  - git, svn
+* Writing
+  - Office
+  - LaTeX
+  - Markdown
+* Languages
+  - Fluent: Basque, Spanish, English
+  - Advanced: German
+  - Intermediate: Italian
 
 Publications
 ------
@@ -41,6 +51,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Talks
 ------
   <ul>{% for post in site.talks %}
@@ -56,3 +67,4 @@ Teaching
 Service and leadership
 ------
 * Currently signed in to 43 different slack teams
+-->
