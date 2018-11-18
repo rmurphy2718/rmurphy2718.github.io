@@ -24,13 +24,24 @@ Work experience
   - Development, optimization and testing of a psychoacoustic model for the MPEG-H 3D Audio encoder.
   - Research on auditory neuroscience and documentation of the human auditory system.
 * 2016 Summer \| **Software development internship** \| STT Systems, Spain
-  - Protocol importer and exporters, XML parsing and UIs using C++, Qt and Bitbucket.
+  - Protocol importer and exporters, XML parsing and UIs using C++, Qt and git.
   
+Professional development
+------
+* 2018 \| *Pytorch online course* \| Udacity, Facebook
+* 2018 \| *Deep learning specialization* \| Coursera, deeplearning.ai
+  - DL algorithm design, implementation, optimization. Python, TensorFlow, Keras, CNNs, NLP
+* 2017 \| *Machine learning online course* \| Coursera, Stanford University
+  - Regression, gradient descent, regularization, neural networks, SVMs, recommender systems.
+* 2017 \| *Smart cities online course* \| edX, ETH Zürich
+  - Smart cities, information architecture, big data, citizen-design science, complexity science, liveability
+
+
 Skills
 ------
 * Software
   - Matlab, C/C++, Java, bash, Scala Spark
-  - Basic web development (HTML, CSS, JavaScript, PHP)
+  - Basic web development: TML, CSS, JavaScript, PHP, mySQL
 * Data science
   - SQL, Python, numpy, pandas, scikit-learn, openCV
   - TensorFlow, Keras, basic Pytorch

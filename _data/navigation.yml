@@ -13,7 +13,8 @@ main:
     url: /portfolio/
         
   - title: "Blog"
-    url: /year-archive/
+    # url: /year-archive/
+    url: "https://medium.com/@anebz"
     
   - title: "CV"
     url: /cv/
