@@ -40,8 +40,8 @@ Professional development
 Skills
 ------
 * Software
-  - Matlab, C/C++, Java, bash, Scala Spark
-  - Basic web development: TML, CSS, JavaScript, PHP, mySQL
+  - Matlab, C/C++, Java, bash, Scala, Spark
+  - Basic web development: HTML, CSS, JavaScript, PHP, mySQL
 * Data science
   - SQL, Python, numpy, pandas, scikit-learn, openCV
   - TensorFlow, Keras, basic Pytorch
@@ -49,7 +49,7 @@ Skills
   - git, svn
 * Writing
   - Office, LaTeX, Markdown
-* Languages
+* Natural languages
   - *Fluent*: Basque, Spanish, English
   - *Advanced*: German
   - *Intermediate*: Italian
@@ -76,4 +76,5 @@ Teaching
 Service and leadership
 ------
 * Currently signed in to 43 different slack teams
+
 -->
