@@ -1,7 +1,6 @@
 ---
 title: "CNN implementation on MNIST dataset in Keras"
-permalink: /portfolio/1mnist
-<!---excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"--->
+excerpt: " "
 collection: portfolio
 ---
 
