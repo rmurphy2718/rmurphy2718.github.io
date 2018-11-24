@@ -1,6 +1,6 @@
 ---
 title: "CNN implementation on MNIST dataset in Keras"
-excerpt: "mnist"
+excerpt: "2018 Summer"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Huffman text compressor"
-excerpt: "huffman"
+excerpt: "2017 first months"
 <!---excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"--->
 collection: portfolio
 ---
