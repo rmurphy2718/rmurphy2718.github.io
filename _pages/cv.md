@@ -19,23 +19,23 @@ Work experience
 ------
 * 2018 Summer \| **Data scientist** \| Skootik, Spain
   - Image processing, deep learning for multiclass classification, CNN research, implementation, optimization.
-  - Python, numpy, TensorFlow, Keras, cv2, scikit-learn
+  - Python, numpy, TensorFlow, Keras, cv2, scikit-learn.
 * 2017/07 - 2018/07 \| **Research assistant** \| Fraunhofer IIS, Germany
   - Development, optimization and testing of a psychoacoustic model for the MPEG-H 3D Audio encoder.
   - Research on auditory neuroscience and documentation of the human auditory system.
-* 2016 Summer \| **Software development internship** \| STT Systems, Spain
+  - Publication of *"Improved psychoacoustic model for efficient perceptual audio codecs"* in AES New York 2018.
+* 2016 Summer \| **Software development intern** \| STT Systems, Spain
   - Protocol importer and exporters, XML parsing and UIs using C++, Qt and git.
   
 Professional development
 ------
 * 2018 \| *Pytorch online course* \| Udacity, Facebook
 * 2018 \| *Deep learning specialization* \| Coursera, deeplearning.ai
-  - DL algorithm design, implementation, optimization. Python, TensorFlow, Keras, CNNs, NLP
+  - DL algorithm design, implementation, optimization. Python, TensorFlow, Keras, CNNs, NLP.
 * 2017 \| *Machine learning online course* \| Coursera, Stanford University
   - Regression, gradient descent, regularization, neural networks, SVMs, recommender systems.
 * 2017 \| *Smart cities online course* \| edX, ETH Zürich
-  - Smart cities, information architecture, big data, citizen-design science, complexity science, liveability
-
+  - Smart cities, information architecture, big data, citizen-design science, complexity science, liveability.
 
 Skills
 ------
