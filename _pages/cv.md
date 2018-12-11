@@ -17,6 +17,7 @@ Education
 
 Work experience
 ------
+* 2018/12 - Present \| **Student job: machine learning** \| Terraloupe, Germany
 * 2018 Summer \| **Data scientist** \| Skootik, Spain
   - Image processing, deep learning for multiclass classification, CNN research, implementation, optimization.
   - Python, numpy, TensorFlow, Keras, cv2, scikit-learn.
