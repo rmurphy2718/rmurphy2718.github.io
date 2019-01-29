@@ -17,7 +17,7 @@ Education
 
 Work experience
 ------
-* 2018/12 - Present \| **Student job: machine learning** \| Terraloupe, Germany
+* 2018/12 - Present \| **Student job: deep learning** \| Terraloupe, Germany
 * 2018 Summer \| **Data scientist** \| Skootik, Spain
   - Image processing, deep learning for multiclass classification, CNN research, implementation, optimization.
   - Python, numpy, TensorFlow, Keras, cv2, scikit-learn.
@@ -30,7 +30,6 @@ Work experience
   
 Professional development
 ------
-* 2018 \| *Pytorch online course* \| Udacity, Facebook
 * 2018 \| *Deep learning specialization* \| Coursera, deeplearning.ai
   - DL algorithm design, implementation, optimization. Python, TensorFlow, Keras, CNNs, NLP.
 * 2017 \| *Machine learning online course* \| Coursera, Stanford University
@@ -45,7 +44,8 @@ Skills
   - Basic web development: HTML, CSS, JavaScript, PHP, mySQL
 * Data science
   - SQL, Python, numpy, pandas, scikit-learn, openCV
-  - TensorFlow, Keras, basic Pytorch
+  - TensorFlow, Keras
+  - Docker, Google Cloud
 * Version control
   - git, svn
 * Writing

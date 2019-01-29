@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Kaixo! Welcome to my website. First of all, apologies to your retinas because of the light mode. I'm [working on it](https://github.com/academicpages/academicpages.github.io/issues/137#issuecomment-439449905).
+Kaixo! Welcome to my website. First of all, apologies to your retinas because of the light mode. I'm [working on it](https://github.com/academicpages/academicpages.github.io/issues/137#issuecomment-439449905). Unfortunately there doesn't seem to be any progress.
 
-I'm currently studying a [M.Sc Computational linguistics](https://www.uni-muenchen.de/studium/studienangebot/studiengaenge/studienfaecher/computerl_/master2/index.html) degree at LMU in Munich. I'm in the first semester of the 2 year program and due to my near-zero knowledge of linguistics, I'm trying to read a humanely possible amount of books from the recommended reference list.
+I'm currently studying a [M.Sc Computational linguistics](https://www.uni-muenchen.de/studium/studienangebot/studiengaenge/studienfaecher/computerl_/master2/index.html) degree at LMU in Munich. I'm in the end of the first semester so heavily focused on the exams. I also got a student job at Terraloupe!
 
-I spend a fair amount of time in [Kaggle](https://www.kaggle.com/anebzt), where I've explored and implemented many diverse datasets and kernels about multiclass image classification. Regarding NLP, I'm participating in the [Quora insincere questions classification](https://www.kaggle.com/c/quora-insincere-questions-classification).
+I spend a fair amount of time in [Kaggle](https://www.kaggle.com/anebzt), where I'm participating in the  [Quora insincere questions classification](https://www.kaggle.com/c/quora-insincere-questions-classification) with modest results (top 58%). 
 
-I like to ride my bike, although it's not so much fun to "go for a ride" when it's snowing. I also like to [read all kinds of books](https://www.goodreads.com/anebz) and embrace my ever-growing hipster side by exploring Munich and its culinary attractions. My latest hobby is going to Christmas markets and [acting surprised](https://twitter.com/_babsgirl/status/1064998208185802753) when the money disappears from my wallet.
+I like to ride my bike, although it's not so much fun to "go for a ride" when it's snowing/very cold. I also like to [read all kinds of books](https://www.goodreads.com/anebz) and embrace my ever-growing hipster side by exploring Munich and its culinary attractions. I'm having trouble picking up the meetup events I want to go to because there are so many!
 
 
 
