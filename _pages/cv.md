@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ------
-
 * **M.Sc. in Computational linguistics** \| 2018-2020 (expected) \| LMU, Germany
   * Project to determine the semantic similarity between two documents from an input of 1.3k docs on a corpus of 58k words. Generation of semantic features of all docs in 32s, comparison of documents in 5s.
   * Implementation of an (in-)sincere question classifier with pre-trained embeddings on a BiLSTM model with Attention on a 1.3M question input with 94%-6% imbalance. F1-score of 0.66. 
@@ -23,7 +22,6 @@ Education
 
 Work experience
 ------
-
 * **Student job: deep learning** \| 2018/12 - 2019/02 \| Terraloupe, Germany
   * Testing of semantic segmentation models with different preprocessing on gcloud.
 * **Data scientist** \| 2018 Summer \| Skootik, Spain
@@ -35,16 +33,13 @@ Work experience
 
 Projects
 ------
-
 * 2019 \| **Gendered pronoun resolution**
   * Implementation of a coreference resolution algorithm with pre-trained embeddings on a Multi-CNN/BERT model on a 4k input text from the Google GAP dataset.
 * 2017 \| **Huffman compressor**
   * Developed the lossless Huffman compression algorithm to compress text files.
 
-  
 Professional development
 ------
-
 * 2018 \| *Deep learning specialization* \| Coursera, deeplearning.ai
   * DL algorithm design, implementation, optimization. Python, TensorFlow, Keras, CNNs, NLP.
 * 2017 \| *Machine learning online course* \| Coursera, Stanford University
@@ -54,7 +49,6 @@ Professional development
 
 Skills
 ------
-
 * Software
   * Matlab, C/C++, Java, bash, Scala, Spark
   * Basic web development: HTML, CSS, JavaScript, PHP, mySQL
@@ -73,7 +67,6 @@ Skills
 
 Publications
 ------
-
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
