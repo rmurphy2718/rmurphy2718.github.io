@@ -1,6 +1,6 @@
 ---
 title: "Implementation of a Boggle game"
-excerpt: "2016 second semester"
+excerpt: "2016"
 collection: portfolio
 ---
 

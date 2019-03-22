@@ -1,6 +1,6 @@
 ---
 title: "Subtitle synchronizer script"
-excerpt: "2018 first months"
+excerpt: "2018"
 collection: portfolio
 ---
 

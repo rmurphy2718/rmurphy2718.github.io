@@ -1,6 +1,6 @@
 ---
 title: "Huffman text compressor"
-excerpt: "2017 first months"
+excerpt: "2017"
 collection: portfolio
 ---
 
