@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Site Settings
 locale                   : "en-UK"
 title                    : "Ane Berasategi"
@@ -70,7 +70,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : 
   links:
-    - "https://www.kaggle.com/anebzt"
+    - ""
 
 # Analytics
 analytics:
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ane Berasategi"
   avatar           : "profile.png"
-  bio              : "Computational linguistics student, learning data science and algorithms and trying to keep up with my reading list."
+  bio              : "Computerlinguistics master student, reader, amateur flute player, intermediate hipster."
   location         : 
   employer         :
   googlescholar    : 
