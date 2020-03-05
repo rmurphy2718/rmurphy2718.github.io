@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -126,7 +126,7 @@
     animation-delay: 0.25s;
 
     a {
-      color: #28292C;
+      color: #fff;
     }
 
     .wrapper {
