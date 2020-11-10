@@ -12,11 +12,12 @@ redirect_from:
 Education
 ------
 
-* **MSc. in Computational linguistics** \| 2018-2020 (expected) \| LMU, Germany
+* **MSc. in Computational linguistics** \| 2018-2020 \| LMU, Germany
   * Project to determine the semantic similarity between two documents from an input of 1.3k docs on a corpus of 58k words. Generation of semantic features of all docs in 32s, comparison of documents in 5s.
   * Implementation of an (in-)sincere question classifier with pre-trained embeddings on a BiLSTM model with Attention on a 1.3M question input with 94%-6% imbalance. F1-score of 0.66. ([~/kaggle](https://github.com/anebz/kaggle))
   * Semester-long group project on transport recommendation given an origin and destination coordinate points. Development of geodata preprocessing and ensemble models yielding an F1-score of 0.68. ([~/kdd-cup-2019](https://github.com/AlessandroVol23/kdd-cup-2019))
   * Exploration of semantic similarities between contextualized embeddings in English and Basque. ([~/eu-sim](https://github.com/anebz/eu-sim))
+  * **Master thesis**: the effects of word segmentation quality on word alignments. ([thesis](https://github.com/anebz/thesis))
 
 * **BSc. in Telecommunication Systems Engineering** \| 2013-2017 \| Tecnun - Universidad de Navarra, Spain
   * Project to determine the highest-scoring combination of letters in a Boggle board that yields a given hash. An error of one letter is allowed and the algorithm runs in under 0.1s. ([~/boggle](https://github.com/julencestero/boggle))
@@ -25,7 +26,8 @@ Education
 Work experience
 ------
 
-* **Student job: NLP** \| 2019/05 - Present \| Siemens, Germany
+* **Junior DevOps Engineer** \| 2020/11 - Present \| Beck et al, Germany
+* **Student job: NLP** \| 2019/05 - 2020/08 \| Siemens, Germany
   * Implementation of a NER algorithm to extract company names from PDFs using XML scrapping and NLP libraries.
 * **Student job: deep learning** \| 2018/12 - 2019/02 \| Terraloupe, Germany
   * Testing of semantic segmentation models with different preprocessing on gcloud.
@@ -39,6 +41,10 @@ Work experience
 Projects
 ------
 
+* 2020 \| **Boulder gym occupancy tracker**
+  * Using scrapy cloud, AWS S3, Streamlit
+* 2020 \| **Telegram flashcard bot** ([~/tflashcardbot](https://github.com/anebz/flashcardbot))
+  * Using Telegram API, heroku, MongoDB
 * 2019 \| **Cracking the coding interview**
   * Learning data structures and algorithms through the book and publication of notes and solutions ([~/ctci](https://github.com/anebz/ctci))
 * 2019 \| **NLP papers**
