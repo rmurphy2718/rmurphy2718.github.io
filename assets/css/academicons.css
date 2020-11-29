@@ -308,6 +308,10 @@
 .fa-li.fa-lg {
   left: -1.85714286em;
 }
+.fa-github-alt{
+  background: white;
+}
+
 .fa-border {
   padding: .2em .25em .15em;
   border: solid 0.08em #eeeeee;
