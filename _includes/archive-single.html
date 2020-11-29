@@ -31,14 +31,16 @@
       <h2 class="archive__item-title" itemprop="headline">
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       </h2>
-      {% elsif post.collection != 'publications' %}
-      <h2 class="archive__item-title" itemprop="headline"></h2>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% elsif post.collection == 'posts' %}
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+      
       </h2>
       <!-- 
         PUBLICATIONS
        -->
-      {% else %}
+      {% elsif post.collection == 'publications' %}
       <p> {{ post.citation }} <a href="{{ base_path }}{{ post.url }}" rel="permalink">  <font color="#3bccd1">   <i>{{ title }}</i>  </font>  </a>  
         at {{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href=" {{ post.paperurl }} "> <font color="#3bccd1"> {{ post.paperurl }}  </font></a>
       </p>
