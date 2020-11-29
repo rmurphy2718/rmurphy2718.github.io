@@ -14,7 +14,7 @@ name                     : &name "Ryan L. Murphy"
 description              : &description "home page"
 url                      : https://rmurphy2718.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rmurphy2718/anebz.github.io"
+repository               : "rmurphy2718/rmurphy2718.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &aberasategi
+  username               : &RyanLMurphy1
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   name             : "Ryan L. Murphy"
   avatar           : "ryan.jpg"
   bio              : ""
-  location         : Purdue University, West Lafayette, IN, USA
+  location         : Purdue Univ., W. Lafayette, IN, USA
   employer         :
   googlescholar    : 
   email            : "murph213@purdue.edu"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "murph213"
+  linkedin         : "ryan-l-murphy"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -131,7 +131,6 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
   - config
   - Gemfile
   - Gruntfile.js
@@ -195,7 +194,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false  #  RM: Setting this to false
       comments: true
       share: true
       related: true
