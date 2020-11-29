@@ -7,14 +7,14 @@
 
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 # Site Settings
-locale                   : "en-UK"
-title                    : "Ane Berasategi"
+locale                   : "en-US"
+title                    : "Ryan L. Murphy"
 title_separator          : "-"
-name                     : &name "Ane Berasategi"
-description              : &description "academic website"
-url                      : https://anebz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ryan L. Murphy"
+description              : &description "home page"
+url                      : https://rmurphy2718.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "anebz/anebz.github.io"
+repository               : "rmurphy2718/anebz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -65,7 +65,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+# - https://developers.google.com/structured-data/customize/social-profilesmode
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : 
@@ -81,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ane Berasategi"
-  avatar           : "profile.png"
-  bio              : "Computerlinguistics master student, reader, amateur flute player, intermediate hipster."
-  location         : 
+  name             : "Ryan L. Murphy"
+  avatar           : "ryan.jpg"
+  bio              : ""
+  location         : Purdue University, West Lafayette, IN, USA
   employer         :
   googlescholar    : 
-  email            : "anebzt@protonmail.com"
+  email            : "murph213@purdue.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "anebz"
+  github           : "rmurphy2718"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "anebz"
+  linkedin         : "murph213"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aberasategi"
+  twitter          : "RyanLMurphy1"
   vine             :
   weibo            :
   xing             :
