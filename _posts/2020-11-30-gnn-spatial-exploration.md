@@ -1,8 +1,8 @@
 ---
-title: 'GNN Spatial Exploration'
+title: 'Graph Neural Networks Spatial Exploration'
 collection: blogs
 date: 2020-11-30
-permalink: /posts/2012/11/gnn-spatial-exploration/
+permalink: /posts/2020/11/gnn-spatial-exploration/
 ---
 
 ### Brief exploration: Graph Neural Networks and Spatial Statistics
