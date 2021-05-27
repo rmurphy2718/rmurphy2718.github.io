@@ -5,6 +5,8 @@ date: 2020-11-30
 permalink: /posts/2020/11/gnn-spatial-exploration/
 ---
 
+<!-- #TODO: Add tags of pytorch geometric and R -->
+
 ### Brief exploration: Graph Neural Networks and Spatial Statistics
 
 I was thinking about spatial statistics and was curious about the place Graph Neural Networks may have.  At a high level, spatial statistics has methods for leveraging local information to improve a prediction.  I wondered how Graph Neural Networks would perform if we used a graph to provide relational information about locations.
